@@ -2,4 +2,4 @@
 
 Computer science student at ITMO University
 
-- 🌱 I’m currently learning C++, Python and Machine learning
+- 🌱 I’m currently learning Python and Deep learning
